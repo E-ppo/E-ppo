@@ -2,7 +2,7 @@
 
 #### 자기개발을 중요하게 생각하는 성장형 개발자이며 나무보다 숲을 보는 넓은 시야를 가진 개발자가 되기 위해 노력중입니다.
 
-</br></br>
+</br>
 ## Programming Languages
 
 [![Programming Languages](https://skillicons.dev/icons?i=js,ts&perline=4)](https://skillicons.dev)
